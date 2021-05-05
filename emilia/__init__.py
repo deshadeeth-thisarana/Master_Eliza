@@ -80,7 +80,7 @@ if ENV:
 	# ALLOW_EXCL = os.environ.get('ALLOW_EXCL', False)
 	CUSTOM_CMD = os.environ.get('CUSTOM_CMD', False)
 	API_WEATHER = os.environ.get('API_OPENWEATHER', None)
-	AI_API_KEY = os.environ.get('AI_API_KEY', '61a59c94b42c9b703b091fd419860eb118504bf6918534ed3b9a5fca50411f7534389749bb8cbeeb3ab7906c2703f52fe81fc02949fe8893b67c9c88e3fa76d3')
+	AI_API_KEY = os.environ.get('AI_API_KEY', '631fb49541c045a0368ab45ec27bfda8eecb7147312a3567c0c42835c9297b0a53bb57a59e629d9b3f9e0f3e3417ae612ef2b247bcedcd8b68547e492f3b2697')
 	API_ACCUWEATHER = os.environ.get('API_ACCUWEATHER', None)
 	DAISY_IMG = os.environ.get('DAISY_IMG', 'https://telegra.ph/file/4be7c7a8a1a9f50b73d21.jpg')
 	MAPS_API = os.environ.get('MAPS_API', None)	       
